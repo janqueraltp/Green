@@ -1,1 +1,2 @@
-# LiomoX
+# LiomoX  
+Distribucion de Linux

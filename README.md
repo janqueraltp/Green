@@ -1,3 +1,3 @@
 # MyGreen 🍏  
 Distribucion de Linux  
-- Copyright (C) 2023 Jan Queralt
+- Copyright ©️ 2023 Jan Queralt

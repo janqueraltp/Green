@@ -5,7 +5,7 @@ Distribucion de Linux
 **Índice**
 - [Qué es?](#id1)
 - [Versión](#id2)
-- [Instalacion](#id3)
+- [Instalación](#id3)
 
 
 <div id='id1' />
@@ -25,4 +25,4 @@ MyGreen es una excelente opción para aquellos que buscan un sistema operativo d
 
 <div id='id3' />
 
-## Instalacion
+## Instalación

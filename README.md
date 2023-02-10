@@ -28,3 +28,4 @@ MyGreen es una excelente opción para aquellos que buscan un sistema operativo d
 ## Instalación
 
 ## #1
+Install [RUFUS](https://rufus.ie/es/)

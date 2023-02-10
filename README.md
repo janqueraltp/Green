@@ -3,7 +3,7 @@ Distribucion de Linux
 - Copyright ©️ 2023 Jan Queralt  
 
 **Índice**
-1. [Que es?](#id1)
+- [Que es?](#id1)
 
 
 <div id='id1' />

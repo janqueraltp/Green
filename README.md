@@ -19,4 +19,4 @@ MyGreen es una excelente opción para aquellos que buscan un sistema operativo d
 <div id='id2' />
 
 ## Versión
-``` v.1.0.0```
+# ``` v.1.0.0```

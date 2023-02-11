@@ -20,3 +20,4 @@ MyGreen es una excelente opción para aquellos que buscan un sistema operativo d
 
 ## Versión
 ### ```  v.1.0.0  ```
+- Bugs fixed
